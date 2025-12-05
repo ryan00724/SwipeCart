@@ -2,7 +2,7 @@
 
 **Last updated:** December 05, 2025
 
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the [App Name] mobile application (the "Service") operated by [Your Name/Company Name] ("us", "we", or "our").
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the SwipeCart mobile application (the "Service") operated by Ryan Creary ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
 
@@ -39,7 +39,7 @@ We may terminate or suspend access to our Service immediately, without prior not
 
 ## 5. Limitation of Liability
 
-In no event shall [Your Name/Company Name], nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service.
+In no event shall Ryan Creary, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service.
 
 ## 6. Changes
 
@@ -47,5 +47,4 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 ## 7. Contact Us
 
-If you have any questions about these Terms, please contact us at:ryancrearydev@gmail.com
-
+If you have any questions about these Terms, please contact us at: ryancrearydev@gmail.com
