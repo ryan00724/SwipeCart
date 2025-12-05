@@ -2,7 +2,7 @@
 
 **Last updated:** December 05, 2025
 
-[App Name] ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by [App Name].
+SwipeCart ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by SwipeCart.
 
 ## 1. Information We Collect
 
@@ -35,5 +35,6 @@ Our Service does not address anyone under the age of 13. We do not knowingly col
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
- 
- 
+## 6. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: ryancrearydev@gmail.com
